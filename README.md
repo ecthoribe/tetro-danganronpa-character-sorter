@@ -1,1 +1,0 @@
-# tetro-danganronpa-character-sorter
